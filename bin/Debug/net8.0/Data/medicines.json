@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "FullName": "string",
+    "Notes": "string",
+    "ExpiryDate": "2026-02-15T18:51:10.984Z",
+    "Quantity": 2147483647,
+    "Price": 999999.99,
+    "Brand": "string"
+  },
+  {
+    "Id": "eda47cbd-cd91-4889-ad3a-36008bcb9536",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Fever",
+    "ExpiryDate": "2026-12-31T00:00:00",
+    "Quantity": 50,
+    "Price": 25.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": "97ede8f9-4134-489d-8d27-f89378a4436b",
+    "FullName": "Dolo-650",
+    "Notes": "Dolo-650 is for fever",
+    "ExpiryDate": "2026-08-15T00:00:00",
+    "Quantity": 8,
+    "Price": 127,
+    "Brand": "DOLO"
+  }
+]
